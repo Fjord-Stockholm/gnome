@@ -1,0 +1,56 @@
+@import url("https://use.typekit.net/ypt1puv.css");
+
+p {
+  margin-bottom: 1.15rem;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 2.75rem 0 1.05rem;
+  line-height: 1.15;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.209em;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+h2 {
+  font-size: 3.157em;
+}
+
+h3 {
+  font-size: 2.369em;
+}
+
+h4 {
+  font-size: 1.5em;
+  margin: 1.75rem 0 0.1rem;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h5 {
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+small,
+.text_small {
+  font-size: 0.75em;
+}
+
+.description {
+  font-size: 1.169em;
+  opacity: 0.8;
+}
