@@ -1,1 +1,1 @@
-# Gnome Awards 2020
+# gnome
